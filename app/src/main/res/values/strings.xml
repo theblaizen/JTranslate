@@ -5,7 +5,7 @@
     <string name="translate">Перевести</string>
     <string name="info_top">ВЫБЕРИТЕ ФАЙЛ</string>
     <string name="info_bottom">Или напишите свой текст&#8230;</string>
-    <string-array name="planets_array">
+    <string-array name="translate_array">
         <item>Русский -> English</item>
         <item>English -> Русский</item>
     </string-array>
