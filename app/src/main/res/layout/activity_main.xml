@@ -109,8 +109,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/spinner"
-        android:layout_below="@+id/linearLayout2"
+        android:layout_below="@+id/btnViewTXT"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/btnTranslate"
+        android:layout_alignEnd="@+id/btnTranslate" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/clear"
+        android:id="@+id/btnClearTextArea"
+        android:layout_below="@+id/btnViewTXT"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/btnViewTXT"
+        android:layout_alignStart="@+id/btnViewTXT"
+        android:textColor="#757575" />
 
 </RelativeLayout>
