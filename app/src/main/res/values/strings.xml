@@ -7,7 +7,7 @@
     <string name="clear">Очистить поле</string>
     <string name="info_bottom">Или напишите свой текст&#8230;</string>
     <string-array name="translate_array">
-        <item>Русский -> English</item>
-        <item>English -> Русский</item>
+        <item>Português -> English</item>
+        <item>English -> Português</item>
     </string-array>
 </resources>
