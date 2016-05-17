@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:text="@string/path"
         android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
         android:id="@+id/tvPath"
         android:textSize="18sp"
         android:textColor="#757575"
