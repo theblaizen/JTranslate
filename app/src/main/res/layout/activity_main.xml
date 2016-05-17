@@ -163,6 +163,27 @@
             </LinearLayout>
 
         </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/tvTranslationTextField"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/translate_tag"
+            android:id="@+id/textView3"
+            android:textSize="20sp"
+            android:layout_below="@+id/edHandle_input"
+            android:layout_centerHorizontal="true" />
     </RelativeLayout>
 
     <LinearLayout

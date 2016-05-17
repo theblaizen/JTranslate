@@ -1,11 +1,12 @@
 <resources>
     <string name="app_name">JTranslate</string>
     <string name="path">path:/</string>
-    <string name="view">Обзор</string>
-    <string name="translate">Перевести</string>
-    <string name="info_top">ВЫБЕРИТЕ ФАЙЛ</string>
-    <string name="clear">Очистить поле</string>
-    <string name="info_bottom">Или напишите свой текст&#8230;</string>
+    <string name="view">Select</string>
+    <string name="translate">Translate</string>
+    <string name="translate_tag">Translation</string>
+    <string name="info_top">CHOOSE FILE</string>
+    <string name="clear">Clear field</string>
+    <string name="info_bottom">Or write your own text&#8230;</string>
     <string-array name="translate_array">
         <item>Português -> English</item>
         <item>English -> Português</item>
